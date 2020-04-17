@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(ab.jpg) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 450px;
+    background: rgba(15, 2, 2, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .box-img{
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+  }
+  .box h1{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 70;
+  }
+  .box h5{
+    font-size: 15px;
+    letter-spacing: 3px;
+    font-weight: 60;
+    text-align: left;
+    margin-right: 60px;
+  }
+  .box h3 {
+    font-size: 10px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 10px;
+  }
+  .box i {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+
+  }
+  .box p{
+    text-align: justify;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  .box li{
+    display: inline-block;
+    margin: 5px;
+    list-style: none;
+  }
+  .box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+    transition: all ease-in-out 250ms;
+  }
+  .box li a:hover{
+    color: #5b8d94;
+  }
+  .box footer {
+    font-size: 10px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+
+    
+  }
